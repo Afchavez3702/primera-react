@@ -1,0 +1,17 @@
+header{
+    height: 100vh;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-photo/croissants-wooden-cutting-board_1150-28480.jpg?t=st=1727826340~exp=1727829940~hmac=45e28c692fe301489d904de20c0682dc402144bc232d6ec7f367c603c02c7c4a&w=740);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.encabezado{
+    height: 100%;
+    background-color: rgba(250, 187, 104, 0.198);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
