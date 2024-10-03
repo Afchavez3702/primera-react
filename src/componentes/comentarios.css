@@ -1,0 +1,10 @@
+.comentario{
+    height: auto;
+    
+}
+.comentario p{
+    text-align: justify;
+}
+.comentario:hover{
+    background-color: beige;
+}
